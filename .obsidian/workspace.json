@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "2f4e42d3615f810b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0be377875af66ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51f127fa74861194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Langs/kotlin/Kotlin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef7f8162cdf3a8a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbbda3a6029e8471",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50bd0213a10ff053",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c93a119490e30a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bb0443a48370341",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce8639a811261730",
+    "type": "split",
+    "children": [
+      {
+        "id": "978f514a089aa7b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc9cfda153d44cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Langs/kotlin/Kotlin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3145aec9316b93c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Langs/kotlin/Kotlin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1c9eb2a12831e46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78edf4a3d2f30e72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Langs/kotlin/Kotlin.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "51f127fa74861194",
+  "lastOpenFiles": [
+    "Langs/kotlin/Kotlin.md",
+    "Langs/kotlin/Frameworks/Micronaut.md",
+    "Langs/kotlin/Frameworks/Spring.md"
+  ]
+}

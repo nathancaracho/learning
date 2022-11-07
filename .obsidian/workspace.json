@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Langs/kotlin/Kotlin.md",
+                "file": "Langs/kotlin/Frameworks/Spring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01dc9c4d0d196cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Langs/kotlin/Libs/Bibliotecas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Langs/kotlin/Kotlin.md",
+                "file": "Langs/kotlin/Libs/Bibliotecas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Langs/kotlin/Kotlin.md",
+                "file": "Langs/kotlin/Libs/Bibliotecas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Langs/kotlin/Kotlin.md"
+                "file": "Langs/kotlin/Libs/Bibliotecas.md"
               }
             }
           }
@@ -136,10 +149,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51f127fa74861194",
+  "active": "01dc9c4d0d196cee",
   "lastOpenFiles": [
     "Langs/kotlin/Kotlin.md",
     "Langs/kotlin/Frameworks/Micronaut.md",
-    "Langs/kotlin/Frameworks/Spring.md"
+    "Langs/kotlin/Frameworks/Spring.md",
+    "framework.md",
+    "funcional.md",
+    "serveless functions.md",
+    "Langs/kotlin/Libs/Bibliotecas.md"
   ]
 }

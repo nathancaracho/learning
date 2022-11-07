@@ -1,0 +1,2 @@
+- https://arrow-kt.io/ é uma bibliotaca [[funcional]] para [[kotlin]]
+- https://www.liquibase.org/ biblioteca para gerenciamento de [[banco de dados]]
